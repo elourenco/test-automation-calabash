@@ -1,0 +1,97 @@
+# Logfile created on 2017-10-03 11:59:34 -0300 by logger.rb/56438
+D, [2017-10-03T11:59:38.886787 #42286] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/controller_helper.rb
+D, [2017-10-03T11:59:38.889258 #42286] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/screen_helper.rb
+D, [2017-10-03T11:59:38.891798 #42286] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb
+D, [2017-10-03T11:59:38.893753 #42286] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb is called LoginController
+D, [2017-10-03T11:59:38.893815 #42286] DEBUG -- : Platform class LoginControlleriOS not found, leaving LoginController as is
+D, [2017-10-03T11:59:38.893848 #42286] DEBUG -- : Extending LoginController with ControllerHelper
+D, [2017-10-03T11:59:38.893876 #42286] DEBUG -- : Extending LoginController with ScreenHelper
+D, [2017-10-03T11:59:38.893974 #42286] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb
+D, [2017-10-03T11:59:38.895416 #42286] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb is called HomeController
+D, [2017-10-03T11:59:38.895473 #42286] DEBUG -- : Platform class HomeControlleriOS not found, leaving HomeController as is
+D, [2017-10-03T11:59:38.895502 #42286] DEBUG -- : Extending HomeController with ControllerHelper
+D, [2017-10-03T11:59:38.895529 #42286] DEBUG -- : Extending HomeController with ScreenHelper
+I, [2017-10-03T11:59:38.895592 #42286]  INFO -- : Redefined all classes for controller folder
+D, [2017-10-03T11:59:38.895738 #42286] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb
+D, [2017-10-03T11:59:38.897235 #42286] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb is called LoginScreen
+D, [2017-10-03T11:59:38.897287 #42286] DEBUG -- : Redefining class LoginScreen to be LoginScreeniOS
+D, [2017-10-03T11:59:38.897324 #42286] DEBUG -- : Extending LoginScreen with ControllerHelper
+D, [2017-10-03T11:59:38.897352 #42286] DEBUG -- : Extending LoginScreen with ScreenHelper
+D, [2017-10-03T11:59:38.897427 #42286] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb
+D, [2017-10-03T11:59:38.898829 #42286] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb is called HomeScreen
+D, [2017-10-03T11:59:38.898893 #42286] DEBUG -- : Platform class HomeScreeniOS not found, leaving HomeScreen as is
+D, [2017-10-03T11:59:38.898923 #42286] DEBUG -- : Extending HomeScreen with ControllerHelper
+D, [2017-10-03T11:59:38.898950 #42286] DEBUG -- : Extending HomeScreen with ScreenHelper
+I, [2017-10-03T11:59:38.899037 #42286]  INFO -- : Redefined all classes for screen folder
+D, [2017-10-03T12:10:04.270296 #47803] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/controller_helper.rb
+D, [2017-10-03T12:10:04.273228 #47803] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/screen_helper.rb
+D, [2017-10-03T12:10:04.275599 #47803] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb
+D, [2017-10-03T12:10:04.277904 #47803] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb is called LoginController
+D, [2017-10-03T12:10:04.277978 #47803] DEBUG -- : Platform class LoginControlleriOS not found, leaving LoginController as is
+D, [2017-10-03T12:10:04.278014 #47803] DEBUG -- : Extending LoginController with ControllerHelper
+D, [2017-10-03T12:10:04.278048 #47803] DEBUG -- : Extending LoginController with ScreenHelper
+D, [2017-10-03T12:10:04.278158 #47803] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb
+D, [2017-10-03T12:10:04.279627 #47803] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb is called HomeController
+D, [2017-10-03T12:10:04.279695 #47803] DEBUG -- : Platform class HomeControlleriOS not found, leaving HomeController as is
+D, [2017-10-03T12:10:04.279726 #47803] DEBUG -- : Extending HomeController with ControllerHelper
+D, [2017-10-03T12:10:04.279755 #47803] DEBUG -- : Extending HomeController with ScreenHelper
+I, [2017-10-03T12:10:04.279825 #47803]  INFO -- : Redefined all classes for controller folder
+D, [2017-10-03T12:10:04.280003 #47803] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb
+D, [2017-10-03T12:10:04.281652 #47803] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb is called LoginScreen
+D, [2017-10-03T12:10:04.281703 #47803] DEBUG -- : Redefining class LoginScreen to be LoginScreeniOS
+D, [2017-10-03T12:10:04.281740 #47803] DEBUG -- : Extending LoginScreen with ControllerHelper
+D, [2017-10-03T12:10:04.281767 #47803] DEBUG -- : Extending LoginScreen with ScreenHelper
+D, [2017-10-03T12:10:04.281824 #47803] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb
+D, [2017-10-03T12:10:04.283377 #47803] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb is called HomeScreen
+D, [2017-10-03T12:10:04.283434 #47803] DEBUG -- : Platform class HomeScreeniOS not found, leaving HomeScreen as is
+D, [2017-10-03T12:10:04.283462 #47803] DEBUG -- : Extending HomeScreen with ControllerHelper
+D, [2017-10-03T12:10:04.283489 #47803] DEBUG -- : Extending HomeScreen with ScreenHelper
+I, [2017-10-03T12:10:04.283553 #47803]  INFO -- : Redefined all classes for screen folder
+D, [2017-10-03T12:12:18.069440 #47975] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/controller_helper.rb
+D, [2017-10-03T12:12:18.071095 #47975] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/screen_helper.rb
+D, [2017-10-03T12:12:18.072160 #47975] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb
+D, [2017-10-03T12:12:18.073180 #47975] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb is called LoginController
+D, [2017-10-03T12:12:18.073224 #47975] DEBUG -- : Redefining class LoginController to be LoginControllerAndroid
+D, [2017-10-03T12:12:18.073259 #47975] DEBUG -- : Extending LoginController with ControllerHelper
+D, [2017-10-03T12:12:18.073287 #47975] DEBUG -- : Extending LoginController with ScreenHelper
+D, [2017-10-03T12:12:18.073332 #47975] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb
+D, [2017-10-03T12:12:18.074242 #47975] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb is called HomeController
+D, [2017-10-03T12:12:18.074283 #47975] DEBUG -- : Platform class HomeControllerAndroid not found, leaving HomeController as is
+D, [2017-10-03T12:12:18.074330 #47975] DEBUG -- : Extending HomeController with ControllerHelper
+D, [2017-10-03T12:12:18.074354 #47975] DEBUG -- : Extending HomeController with ScreenHelper
+I, [2017-10-03T12:12:18.074391 #47975]  INFO -- : Redefined all classes for controller folder
+D, [2017-10-03T12:12:18.074514 #47975] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb
+D, [2017-10-03T12:12:18.075527 #47975] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb is called LoginScreen
+D, [2017-10-03T12:12:18.075565 #47975] DEBUG -- : Redefining class LoginScreen to be LoginScreenAndroid
+D, [2017-10-03T12:12:18.075594 #47975] DEBUG -- : Extending LoginScreen with ControllerHelper
+D, [2017-10-03T12:12:18.075622 #47975] DEBUG -- : Extending LoginScreen with ScreenHelper
+D, [2017-10-03T12:12:18.075656 #47975] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb
+D, [2017-10-03T12:12:18.076741 #47975] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb is called HomeScreen
+D, [2017-10-03T12:12:18.076784 #47975] DEBUG -- : Platform class HomeScreenAndroid not found, leaving HomeScreen as is
+D, [2017-10-03T12:12:18.076812 #47975] DEBUG -- : Extending HomeScreen with ControllerHelper
+D, [2017-10-03T12:12:18.076838 #47975] DEBUG -- : Extending HomeScreen with ScreenHelper
+I, [2017-10-03T12:12:18.076877 #47975]  INFO -- : Redefined all classes for screen folder
+D, [2017-10-03T12:12:37.942917 #48000] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/controller_helper.rb
+D, [2017-10-03T12:12:37.945063 #48000] DEBUG -- : Requiring: /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/screen_helper.rb
+D, [2017-10-03T12:12:37.947142 #48000] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb
+D, [2017-10-03T12:12:37.948918 #48000] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/login_controller.rb is called LoginController
+D, [2017-10-03T12:12:37.948981 #48000] DEBUG -- : Platform class LoginControlleriOS not found, leaving LoginController as is
+D, [2017-10-03T12:12:37.949013 #48000] DEBUG -- : Extending LoginController with ControllerHelper
+D, [2017-10-03T12:12:37.949041 #48000] DEBUG -- : Extending LoginController with ScreenHelper
+D, [2017-10-03T12:12:37.949133 #48000] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb
+D, [2017-10-03T12:12:37.950391 #48000] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/controller/home_controller.rb is called HomeController
+D, [2017-10-03T12:12:37.950436 #48000] DEBUG -- : Platform class HomeControlleriOS not found, leaving HomeController as is
+D, [2017-10-03T12:12:37.950464 #48000] DEBUG -- : Extending HomeController with ControllerHelper
+D, [2017-10-03T12:12:37.950490 #48000] DEBUG -- : Extending HomeController with ScreenHelper
+I, [2017-10-03T12:12:37.950541 #48000]  INFO -- : Redefined all classes for controller folder
+D, [2017-10-03T12:12:37.950684 #48000] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb
+D, [2017-10-03T12:12:37.952100 #48000] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/login_screen.rb is called LoginScreen
+D, [2017-10-03T12:12:37.952143 #48000] DEBUG -- : Redefining class LoginScreen to be LoginScreeniOS
+D, [2017-10-03T12:12:37.952190 #48000] DEBUG -- : Extending LoginScreen with ControllerHelper
+D, [2017-10-03T12:12:37.952229 #48000] DEBUG -- : Extending LoginScreen with ScreenHelper
+D, [2017-10-03T12:12:37.952312 #48000] DEBUG -- : Requiring /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb
+D, [2017-10-03T12:12:37.953576 #48000] DEBUG -- : Assuming parent class from /Users/elourenco/Workspace/AMX/apps/minhanet-test-automation-calabash/features/support/screen/home_screen.rb is called HomeScreen
+D, [2017-10-03T12:12:37.953616 #48000] DEBUG -- : Platform class HomeScreeniOS not found, leaving HomeScreen as is
+D, [2017-10-03T12:12:37.953642 #48000] DEBUG -- : Extending HomeScreen with ControllerHelper
+D, [2017-10-03T12:12:37.953668 #48000] DEBUG -- : Extending HomeScreen with ScreenHelper
+I, [2017-10-03T12:12:37.953744 #48000]  INFO -- : Redefined all classes for screen folder
